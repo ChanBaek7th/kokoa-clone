@@ -12,3 +12,29 @@
   display: flex;
   justify-content: space-between;
 }
+
+.nav__link {
+  position: relative;
+}
+
+.nav__notification {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+
+.nav__notification_ox {
+  width: 5px;
+  height: 5px;
+  left: 25px;
+  bottom: 30px;
+}
