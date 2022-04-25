@@ -9,3 +9,17 @@
   color: white;
   font-weight: 600;
 }
+
+.badge_ox {
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  
+  left: 25px;
+  bottom: 30px;
+}
+
+.badge_ox__span {
+  left: 15px;
+  bottom: 20px;
+}
