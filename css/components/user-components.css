@@ -1,5 +1,7 @@
 .user-component{
   justify-content: space-between;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 .user-component,
